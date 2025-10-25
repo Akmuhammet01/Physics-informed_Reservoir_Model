@@ -1,6 +1,6 @@
 # Physics-Informed Reservoir Model
 
-![PINN_structure](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/10409_2021_1148_Fig1_HTML.png)
+![PINN_structure](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Claude.html)
 
 ## Overview
 This repository implements a Physics-Informed Neural Network (PINN) and Fourier Neural Operator (FNO) to model pressure dynamics in 2D oil reservoirs. The project predicts pressure fields for single-well and multi-well scenarios using the diffusivity equation, embedding physical laws into the loss function for accurate, mesh-free solutions. Built with PyTorch, the code compares three models: Basic MLP (Tanh activation), Sine MLP, and FNO. Results show effective pressure predictions with losses as low as 1.2e-5 for multi-well configurations.
