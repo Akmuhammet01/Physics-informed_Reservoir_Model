@@ -10,7 +10,6 @@ This repository implements a Physics-Informed Neural Network (PINN) and Fourier 
 - **Fourier Neural Operator (FNO)**: Models pressure dynamics using spectral convolutions for grid-based predictions.
 - **Scenarios**: Supports single-well and multi-well configurations with customizable well positions and rates.
 - **Visualizations**: The model predicts pressure fields for single-well and multi-well scenarios
-![Visualizations](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Screenshot%20from%202025-10-25%2019-03-55.png)
-![Visualizations](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Screenshot%20from%202025-10-25%2019-03-43.png)
+![Visualizations](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Screenshot%20from%202025-10-25%2019-03-55.png)![Visualizations](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Screenshot%20from%202025-10-25%2019-03-43.png)
 - **Comparison**: Evaluates model performance (loss, training time, pressure predictions) across Basic MLP, Sine MLP, and FNO.
 ![Visualizations](https://github.com/Akmuhammet01/Physics-informed_Reservoir_Model/blob/main/images/Screenshot%20from%202025-10-25%2020-46-22.png)
